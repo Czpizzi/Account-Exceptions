@@ -1,0 +1,42 @@
+# =========================
+# Eclipse & Java Projects
+# =========================
+
+# Arquivos e pastas gerados pelo Eclipse
+.classpath
+.project
+.settings/
+
+# Saída de build (compilações)
+bin/
+target/
+out/
+
+# Arquivos temporários do sistema
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração locais
+*.prefs
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# IDEs adicionais (caso use)
+.idea/
+*.iml
+.vscode/
+
+# Maven ou Gradle (caso use futuramente)
+.mvn/
+build/
+.gradle/
